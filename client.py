@@ -4,7 +4,7 @@ import os
 import sys
 
 HOST = '127.0.0.1'
-PORT = 5000
+PORT = 9999 #other port
 BUFFER_SIZE = 2048
 
 
