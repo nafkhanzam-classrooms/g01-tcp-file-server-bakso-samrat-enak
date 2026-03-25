@@ -4,7 +4,7 @@ import os
 import json
 
 HOST = '127.0.0.1'
-PORT = 9999
+PORT = 5000
 BUFFER_SIZE = 2048
 SERVER_FILES_DIR = './server_files'
 
