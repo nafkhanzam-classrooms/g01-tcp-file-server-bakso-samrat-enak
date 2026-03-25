@@ -4,8 +4,8 @@
 ## Anggota Kelompok
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-|                |            |           |
-|                |            |           |
+| Rifat Qurratu Aini Irwandi               | 5025241233           | D          |
+| Mayandra Suhaira Frisiandi               | 5025241240           | D          |
 
 ## Link Youtube (Unlisted)
 Link ditaruh di bawah ini
