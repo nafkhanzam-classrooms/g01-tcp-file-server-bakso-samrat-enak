@@ -77,3 +77,15 @@ Program ini terdiri dari 5 file python, 1 file client dan 4 file server dengan 4
   4. Setelah loop while True di dalam thread selesai karena perintah `/quit` atau koneksi putus, blok finally akan memastikan `client_socket.close()` dijalankan untuk membebaskan sumber daya.
 
 ## Screenshot Hasil
+
+### 1. Sync
+  ![sync](image/sync.jpeg)
+  
+### 2. Select
+  ![select](image/select.jpeg)
+  
+### 3. Poll
+  ![poll](image/poll.png)
+  
+### 4. Thread
+  ![thread](image/thread.png)
